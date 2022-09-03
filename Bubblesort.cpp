@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <locale.h>
 
 //ORGANIZADOR DE VETORES (Ordem crescente)
 
@@ -6,6 +7,7 @@ int main()
 {
     int vetor[5];
     int aux;
+    setlocale(LC_ALL, "Portuguese");
     //Leitura dos valores
     for(int cont = 0; cont<5; cont++){
         printf("Digite um valor: ");
@@ -21,8 +23,8 @@ int main()
             }
         }
     }
-    //Saída dos dados
+    //SaÃ­da dos dados
     for(int cont = 0; cont < 5; cont++){
-        printf("Posição %d= %d\n", cont, vetor[cont]);
+        printf("PosiÃ§Ã£o %d= %d\n", cont, vetor[cont]);
     }
 }
