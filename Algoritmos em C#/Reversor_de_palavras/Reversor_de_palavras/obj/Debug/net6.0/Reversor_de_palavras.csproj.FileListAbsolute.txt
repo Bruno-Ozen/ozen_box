@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\bin\Debug\net6.0\Reversor_de_palavras.exe
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\bin\Debug\net6.0\Reversor_de_palavras.deps.json
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\bin\Debug\net6.0\Reversor_de_palavras.runtimeconfig.json
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\bin\Debug\net6.0\Reversor_de_palavras.dll
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\bin\Debug\net6.0\Reversor_de_palavras.pdb
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.dll
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\refint\Reversor_de_palavras.dll
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.pdb
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\Reversor_de_palavras.genruntimeconfig.cache
+C:\Users\bruno\source\repos\Reversor_de_palavras\Reversor_de_palavras\obj\Debug\net6.0\ref\Reversor_de_palavras.dll
