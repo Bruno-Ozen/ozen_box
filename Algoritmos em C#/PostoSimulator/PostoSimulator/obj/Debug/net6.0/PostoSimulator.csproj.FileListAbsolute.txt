@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\bin\Debug\net6.0\PostoSimulator.exe
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\bin\Debug\net6.0\PostoSimulator.deps.json
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\bin\Debug\net6.0\PostoSimulator.runtimeconfig.json
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\bin\Debug\net6.0\PostoSimulator.dll
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\bin\Debug\net6.0\PostoSimulator.pdb
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.AssemblyInfo.cs
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.dll
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\refint\PostoSimulator.dll
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.pdb
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\PostoSimulator.genruntimeconfig.cache
+C:\Users\bruno\source\repos\PostoSimulator\PostoSimulator\obj\Debug\net6.0\ref\PostoSimulator.dll
