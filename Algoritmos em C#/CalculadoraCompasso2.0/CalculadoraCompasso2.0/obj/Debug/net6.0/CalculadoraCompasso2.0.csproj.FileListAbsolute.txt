@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\bin\Debug\net6.0\CalculadoraCompasso2.0.exe
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\bin\Debug\net6.0\CalculadoraCompasso2.0.deps.json
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\bin\Debug\net6.0\CalculadoraCompasso2.0.runtimeconfig.json
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\bin\Debug\net6.0\CalculadoraCompasso2.0.dll
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\bin\Debug\net6.0\CalculadoraCompasso2.0.pdb
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.AssemblyInfo.cs
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.dll
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\refint\CalculadoraCompasso2.0.dll
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.pdb
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\CalculadoraCompasso2.0.genruntimeconfig.cache
+C:\Users\bruno\source\repos\CalculadoraCompasso2.0\CalculadoraCompasso2.0\obj\Debug\net6.0\ref\CalculadoraCompasso2.0.dll
